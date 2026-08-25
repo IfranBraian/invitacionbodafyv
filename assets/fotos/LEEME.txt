@@ -1,0 +1,14 @@
+Poné acá tus fotos con estos nombres exactos (podés cambiar la extensión si son .png en vez de .jpg, pero también hay que cambiarla en index.html):
+
+foto1.jpg  -> primera carta del sobre (cómo se conocieron)
+foto2.jpg  -> segunda carta del sobre (un momento juntos)
+foto3.jpg  -> tercera carta del sobre (la propuesta)
+foto4.jpg  -> primera foto de la galería
+foto5.jpg  -> segunda foto de la galería
+
+Una vez que agregues los archivos acá, andá a index.html y fijate que
+los "src" ya apuntan a assets/fotos/foto1.jpg, foto2.jpg, etc. — no hace
+falta tocar nada más, solo que el archivo exista con ese nombre exacto
+en esta carpeta.
+
+Podés borrar este archivo LEEME.txt cuando termines.
